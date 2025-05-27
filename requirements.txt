@@ -1,1 +1,1 @@
-icrawler
+bing-image-downloader
